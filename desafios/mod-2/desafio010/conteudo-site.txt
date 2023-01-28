@@ -1,0 +1,46 @@
+Introdução ao aplicativo AppPets
+
+O programa AppPets é um aplicativo que contém o intuito de auxiliar as pessoas que adotam ou compram animais para criar em suas casas.
+Com esse aplicativo é capaz da pessoa ter em suas mãos o cuidado da alimentação do seu pet até agendar consultas com veterinários e até se comunicar com os mesmos.
+
+Surgimento da ideia
+
+A ideia do aplicativo surgiu em um projeto de escola, o qual tem o objetivo onde o grupo de estudantes tentem resolver algum problema existente na sociedade.
+Então, surgiu a ideia do AppPets.
+[Imagem]
+Mas, infelizmente não é um projeto finalizado.
+
+Criação do app
+
+Dentre vários motivos envolvendo a ideia desse programa, o principal deles é o fator do crescimento de abandono aos animais, o qual cresce a cada ano que se passa. 
+[Imagem]
+O intuito do AppPets é mostrar que cuidar de um (ou mais) animal(ais) de estimação não é e nem deve ser uma tarefa difícil ou pesada, já que nosso pet é nosso melhor amigo e está sempre conosco.
+[Imagem]
+O app deseja mostrar que os animais devem ser valorizados e cuidados, além de fazer com que a criação do animal não seja dificultosa para o seu dono e tudo se torne mais leve em ambos os lados.
+
+[Vídeo]
+
+Informações adicionais do App
+
+Adicionando mais algumas informações sobre o projeto, essas seriam algumas das coisas que poderiam ser feitas com o app:
+
+1 - Horário de alimentação do pet.
+
+2 - Carteira de vacinação digital
+
+3 - Mapa dos pet shops na cidade
+
+4 - Comunicação com veterinários
+
+5 - Informações sobre cuidados com o animal
+
+6 - Mais amplo do que apenas cães e gatos
+
+7 - Mapa veterinários da cidade
+
+8 - Organizar dia a dia do(s) seu(s) pet(s)
+
+AppPets é um mar de possibilidades para o seu bem-estar e do seu animal de estimação.
+
+
+

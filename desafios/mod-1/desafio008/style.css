@@ -1,0 +1,25 @@
+
+
+.background-azul {
+    background-color: lightblue;
+}
+
+.texto-azul {
+    color: blue;
+}
+
+.background-roxo {
+    background-color: rgba(43, 43, 169, 0.62);
+}
+
+.texto-roxo {
+    color: purple;
+}
+
+.background-vermelho {
+    background-color: rgba(174, 84, 84, 0.551);
+}
+
+.texto-vermelho {
+    color: brown;
+}
