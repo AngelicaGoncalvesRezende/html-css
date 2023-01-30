@@ -18,7 +18,7 @@ body {
 
 header {
     background-image: linear-gradient(to bottom,#fe7ce8, #BF0AA1);
-    height: 18em;
+    height: 19em;
 }
 
 #titulo-principal {
@@ -35,7 +35,7 @@ header {
     font-family: 'Kanit', sans-serif;
     font-size: 1.6em;
     margin: 1em auto;
-    padding: 0.5em;
+    padding-bottom: 1.5em;
     text-align: center;
     width: 16em;
     word-wrap: break-word;
@@ -63,9 +63,9 @@ nav {
 
 main {
     background-color: white;
-    min-width: 200px;
+    min-width: 250px;
     max-width: 1060px;
-    margin: 2.2em auto;
+    margin: 2em auto;
     padding: 2em;
     border-radius: 0 0 1em 1em;
     box-shadow: 0.1em 0.1em 0.5em rgba(0, 0, 0, 0.718);
