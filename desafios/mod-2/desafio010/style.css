@@ -9,11 +9,11 @@
 * {
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
 
 body {
     background-color: #e183d1;
-    font-family: 'Coda', cursive;
 }
 
 header {
@@ -24,7 +24,7 @@ header {
 #titulo-principal {
     color: white;
     font-family: 'Open Sans', sans-serif;
-    font-size: 4.4em;
+    font-size: 4em;
     text-align: center;
     padding-top: 0.3em;
     filter: drop-shadow(2px 2px 4px #BF0AA1);
@@ -32,7 +32,7 @@ header {
 
 #subtitulo-principal {
     color: white;
-    font-family: 'Coda', cursive;
+    font-family: 'Kanit', sans-serif;
     font-size: 1.6em;
     margin: 1em auto;
     padding: 0.5em;
@@ -63,9 +63,9 @@ nav {
 
 main {
     background-color: white;
-    min-width: 14.3em;
-    max-width: 62.5em;
-    margin: 2.4em auto;
+    min-width: 200px;
+    max-width: 1060px;
+    margin: 2.2em auto;
     padding: 2em;
     border-radius: 0 0 1em 1em;
     box-shadow: 0.1em 0.1em 0.5em rgba(0, 0, 0, 0.718);
