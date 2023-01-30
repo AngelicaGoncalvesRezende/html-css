@@ -18,15 +18,16 @@ body {
 
 header {
     background-image: linear-gradient(to bottom,#fe7ce8, #BF0AA1);
-    height: 20em;
+    height: 21.2em;
 }
 
 #titulo-principal {
     color: white;
     font-family: 'Open Sans', sans-serif;
-    font-size: 70px;
+    font-size: 3.4em;
     text-align: center;
-    padding-top: 0.3em;
+    padding-top: 0.7em;
+    margin-bottom: 0.7em;
     filter: drop-shadow(2px 2px 4px #BF0AA1);
 } 
 
@@ -35,7 +36,7 @@ header {
     font-family: 'Kanit', sans-serif;
     font-size: 1.6em;
     margin: 1em auto;
-    padding-bottom: 2em;
+    padding-bottom: 1em;
     text-align: center;
     width: 16em;
     word-wrap: break-word;
@@ -65,7 +66,7 @@ main {
     background-color: white;
     min-width: 250px;
     max-width: 1060px;
-    margin: 2.3em auto;
+    margin: 0.2em auto;
     padding: 2em;
     border-radius: 0 0 1em 1em;
     box-shadow: 0.1em 0.1em 0.5em rgba(0, 0, 0, 0.718);
